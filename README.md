@@ -1,6 +1,8 @@
-# Remote Sensing Notebooks
+# Notebooks
 
-This repository contains a collection of interactive and educational Python notebooks designed for teaching and demonstrating key concepts in remote sensing, with a focus on image registration, signal processing, speckle...
+This repository contains a collection of interactive and educational Python notebooks designed for teaching and demonstrating key concepts in 
+- remote sensing, with a focus on image registration, signal processing,
+- speckle analysis, dynamic speckle
 
 The notebooks are designed for execution in [Google Colab](https://colab.research.google.com) and include reproducible examples based on Sentinel-1 and Sentinel-2 data from [Google Earth Engine](https://earthengine.google.com/).
 
